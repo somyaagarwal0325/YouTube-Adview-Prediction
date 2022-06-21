@@ -1,4 +1,4 @@
-# YouTube-Adview-Prediction-IBM
+# YouTube-Adview-Prediction
 
 The project involved developing and testing various Machine Learning models, after data preprocessing, to closely predict the number of views an advertisement on YouTube would get.
 
@@ -31,4 +31,4 @@ Decision Tree Regressor model was chosen as our predictor with an R2 Score of al
 
 ## Certification
 
-This is a guided project under Internship Studio in collaboration with IBM (https://drive.google.com/file/d/1ohs5p2Ikknp8SF3zuzWnuBJedf-IJRSe/view?usp=sharing)
+This is a guided project under Internship Studio. See file [Certification](https://github.com/somyaagarwal0325/YouTube-Adview-Prediction-IBM/tree/main2/Certification) for further details. 
