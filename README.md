@@ -4,16 +4,16 @@ The project involved developing and testing various Machine Learning models, aft
 
 ### Prerequisites
 
-The dataset was cleaned and analysed.
-Various graphs were plotted to visualise the data spread.
-Heatmaps were generated to better understand data corelation
-Columns were added and dropped as per the requirement to prepare the data as input to the model.
+* The dataset was cleaned and analysed.
+* Various graphs were plotted to visualise the data spread.
+* Heatmaps were generated to better understand data corelation
+* Columns were added and dropped as per the requirement to prepare the data as input to the model.
 
 ### Model Building
 
-Various models were built like Linear Regressor, Decision Tree Regressor, Random Forest, SVR, ANN, etc.
-These were then tested on varios performance parameters like R2 Sore, Mean Squared Error, etc.
-They were compared to each other and the best performing model was selected to predict Adviews.
+* Various models were built like Linear Regressor, Decision Tree Regressor, Random Forest, SVR, ANN, etc.
+* These were then tested on varios performance parameters like R2 Sore, Mean Squared Error, etc.
+* They were compared to each other and the best performing model was selected to predict Adviews.
 
 ## End Result
 
